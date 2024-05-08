@@ -1,0 +1,14 @@
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\bin\Debug\netcoreapp3.1\ProyectoCore.exe
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\bin\Debug\netcoreapp3.1\ProyectoCore.deps.json
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\bin\Debug\netcoreapp3.1\ProyectoCore.runtimeconfig.json
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\bin\Debug\netcoreapp3.1\ProyectoCore.runtimeconfig.dev.json
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\bin\Debug\netcoreapp3.1\ProyectoCore.dll
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\bin\Debug\netcoreapp3.1\ProyectoCore.pdb
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\obj\Debug\netcoreapp3.1\ProyectoCore.csproj.AssemblyReference.cache
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\obj\Debug\netcoreapp3.1\ProyectoCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\obj\Debug\netcoreapp3.1\ProyectoCore.AssemblyInfoInputs.cache
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\obj\Debug\netcoreapp3.1\ProyectoCore.AssemblyInfo.cs
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\obj\Debug\netcoreapp3.1\ProyectoCore.csproj.CoreCompileInputs.cache
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\obj\Debug\netcoreapp3.1\ProyectoCore.dll
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\obj\Debug\netcoreapp3.1\ProyectoCore.pdb
+C:\Cursos\C sharp\ProyectoCore\ProyectoCore\obj\Debug\netcoreapp3.1\ProyectoCore.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Cursos\C sharp\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Cursos\C sharp\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Cursos\C sharp\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Cursos\C sharp\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Cursos\C sharp\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C sharp\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Cursos\C sharp\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Cursos\C sharp\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Cursos\C sharp\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Cursos\C sharp\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Aplicacion</id>
+    <version>1.0.0</version>
+    <authors>Aplicacion</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Dominio" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Persistencia" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper.Extensions.Microsoft.DependencyInjection" version="6.1.1" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation.AspNetCore" version="8.6.2" exclude="Build,Analyzers" />
+        <dependency id="MediatR.Extensions.Microsoft.DependencyInjection" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="iTextSharp.LGPLv2.Core" version="1.6.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Cursos\C sharp\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.dll" target="lib\netcoreapp3.1\Aplicacion.dll" />
+  </files>
+</package>
